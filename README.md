@@ -3,12 +3,12 @@
 
 ## Introduction to DevOps and why devops/benefits
 
-- ** Faster time to market the product **
-- ** Improved team collaboration **
-- ** Increased quality due to automated testing **
-- ** Continous release cycle **
-- ** Automated scalable environment **
-- ** Shared responsibilities **
+- **Faster time to market the product**
+- **Improved team collaboration**
+- **Increased quality due to automated testing**
+- **Continous release cycle**
+- **Automated scalable environment**
+- **Shared responsibilities**
 
 ### Linux commands that also work on Bash
 - Create a Dir `mkdir name_of_the_dir`
